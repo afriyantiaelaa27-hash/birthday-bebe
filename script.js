@@ -159,15 +159,13 @@ const message =
 `Selamat ulang tahun, sayangku cintakuuu ❤️
 
 Semoga kamu panjang umur,
-sehat selalu,
-dan semua rezeki serta urusan kamu
+sehat selalu, semoga rezeki dan semua urusan kamu
 selalu dilancarkan yaa.
 
 Aku harap di umur kamu yang sekarang,
 yang udah beranjak 24 tahun,
-kamu semakin jaya,
-semakin kuat,
-dan jadi pribadi yang lebih baik lagi.
+kamu semakin jaya jaya jaya,
+semakin kuat, sabar,jadi pribadi yang lebih baik lagi dan tetap selalu berbuat baik yaa.
 
 Terima kasih ya sayang,
 karena udah selalu bantu aku
@@ -179,17 +177,17 @@ punya kamu ❤️
 Maafin aku kalau selama ini
 aku masih sering merepotkan kamu.
 
-Tetap jaga diri baik-baik di sana ya cintakuu.
+Tetap jaga diri baik-baik di jakarta ya cintakuu.
 
 Dan satu lagi...
 
-Kamu harus selalu sayang sama aku yaa 😝❤️
+Kamu harus selalu sayang sama keluarga dan aku yaa 😝❤️
 
 Aku sayang kamu selamanya.
 
 I Love You ❤️
 
-🩵 from Aela Cantik 🩵`;
+- Cantiknya kamu ღ`;
 
 const target =
 document.getElementById("typingText");
@@ -257,7 +255,10 @@ function updateCountdown() {
         countdown.innerHTML =
 
         `
-        ❤️ Together Since 30 November 2024 ❤️
+        Terima kasih udah menjadi bagian terbaik dalam hidup aku.
+Semoga kita punya banyak cerita indah lagi kedepannya. ♡
+
+I love you, always and forever. ♥︎
         <br><br>
         ${days} Hari
         ${hours} Jam
